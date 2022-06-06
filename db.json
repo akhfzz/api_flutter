@@ -1,7 +1,7 @@
 {
   "mahasiswa": [
     {
-      "nim": 192102001,
+      "id": 192102001,
       "nama" : "Akhmad Faizal",
       "prodi": "S-1 Informatika",
       "gender": "L",
@@ -10,7 +10,7 @@
   ],
   "nilai_matkul": [
     {
-      "nim": 192102001,
+      "id": 192102001,
       "kode": "CE2022",
       "nilai": "A"
     }
