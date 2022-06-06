@@ -17,7 +17,7 @@
   ],
   "matakuliah": [
     {
-        "kode": "CE2022",
+        "id": "CE2022",
         "nama":"Pengembangan Aplikasi Mobile",
         "sks": 4
     }
