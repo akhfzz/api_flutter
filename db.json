@@ -1,22 +1,25 @@
-[
-  {
-   "data_mahasiswa" : {
-      "mahasiswa": {
-        "nim": "192102002",
-        "nama" : "Akhmad Faizal",
-        "prodi": "S-1 Informatika",
-        "gender": "L",
-        "angkatan": "2019"
-      },
-      "nilai_matkul": {
-        "nim": "192102002",
-        "kode": "CE2022",
-        "nilai": "A"
-      },
-      "matakuliah": {
+{
+  "mahasiswa": [
+    {
+      "nim": "192102002",
+      "nama" : "Akhmad Faizal",
+      "prodi": "S-1 Informatika",
+      "gender": "L",
+      "angkatan": "2019"
+    }
+  ],
+  "nilai_matkul": [
+    {
+      "nim": "192102002",
+      "kode": "CE2022",
+      "nilai": "A"
+    }
+  ],
+  "matakuliah": [
+    {
         "kode": "CE2022",
         "nama":"Pengembangan Aplikasi Mobile",
         "sks": "4"
     }
-  }
-]
+  ]
+}
